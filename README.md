@@ -19,9 +19,17 @@ Uniting the Undertale community with useful resources and learning courses, for 
 - [Resprite](https://resprite.fengeon.com/)
 - [Pixel Studio](https://play.google.com/store/apps/details?id=com.PixelStudio)
 ## Coding Tools / Code Editors
+- [GameMaker Studio 2](https://gamemaker.io/)
 - [Godot Engine](https://github.com/godotengine/godot)
 - [Gdevelop](https://github.com/4ian/GDevelop)
 - [Clickteam Fusion 2.5](https://www.clickteam.com/)
 
+
 ## Music Tools / Music Examples
 - [UNDERTALE Sample List / UNDERTALE OST: Recreated](https://docs.google.com/presentation/d/1853ZT02oS3YWlG3Sp7ziQHrpJPXRp-D-QZl1J3Z6edM/edit?usp=sharing)
+## ClickTeam Fusion Tutorials
+- [AlmightyZenTaco](https://www.youtube.com/watch?v=n1yiUpZbneU&list=PL-N8t_1SdNbkz7VfIZ82c3mlVPvDatdvl)
+## GameMaker Studio 2 Tutorials
+- [AlmightyZenTaco](https://www.youtube.com/watch?v=gSjazJUXfqw&list=PL-N8t_1SdNbm5drDNXABb7YJxeyDcYg24)
+## Music Tutorials
+- [How to recreate Megalovania almost perfectly](https://www.youtube.com/watch?v=syapdrU-CtY)
